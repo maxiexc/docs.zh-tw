@@ -38,7 +38,7 @@ ms.locfileid: "79170282"
   
  [!code-csharp[csProgGuideObjects#36](~/samples/snippets/csharp/VS_Snippets_VBCSharp/csProgGuideObjects/CS/Objects.cs#36)]  
   
- 請注意在 `Person` 物件上遞增 `Age` 屬性的全新語法：  
+ 請注意可以使用更簡潔的語法在 `Person` 物件上遞增 `Age` 屬性：  
   
  [!code-csharp[csProgGuideObjects#37](~/samples/snippets/csharp/VS_Snippets_VBCSharp/csProgGuideObjects/CS/Objects.cs#37)]  
   
